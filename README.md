@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently learning java and frontend development<br>I have experience in python <br>
+Hii 👋!! I am Shubham . Computer Science Student currently in my sophomore year.
+I am passionate about developing and building stuff in collaboration with other people. 
+
 
 
 ## 🌐 Socials:
