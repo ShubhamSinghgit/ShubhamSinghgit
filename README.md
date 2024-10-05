@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **web projects**
 
-- 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **making websites that people love to use.**
 
 - 🤝 I’m looking for help with **contributing to open-source projects with other developers.**
