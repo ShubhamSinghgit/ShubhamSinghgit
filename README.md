@@ -3,7 +3,7 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 What I do:
 I enjoy building web applications and experimenting with new technologies. My goal is to create user-friendly and impactful solutions while continuously learning and improving.  
 
 ---
