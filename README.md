@@ -10,9 +10,9 @@ I enjoy building web applications and experimenting with new technologies. My go
 
 ### 🤝 Connect With Me:
 <p align="left">
-<a href="https://twitter.com/__shubhamtwt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__shubhamtwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-singh-435220222/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-singh-435220222/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shubham404" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubham404" height="30" width="40" /></a>
+<a href="https://x.com/__shubhamtwt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__shubhamtwt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhamsingh1202" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-singh-435220222/" height="30" width="40" /></a>
+<a href="https://shubhamsblog.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubham404" height="30" width="40" /></a>
 </p>
 
 
