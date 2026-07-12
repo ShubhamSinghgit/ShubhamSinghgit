@@ -65,7 +65,7 @@ im = ImageEnhance.Contrast(im).enhance(CONTRAST)
 im = im.resize((COLS, ROWS), Image.LANCZOS)
 px = im.load()
 
-STATIC = bool(os.environ.get("STATIC"))  # emit frozen state for previews
+STATIC = os.environ.get("STATIC", "").lower() in ("1", "true", "yes")
 
 rows_txt = []
 for y in range(ROWS):
